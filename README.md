@@ -135,7 +135,3 @@ social-engineering-risk-analyzer/
 This tool is built for **educational and defensive security purposes only**. It is intended to help users identify potentially suspicious profiles, not to target or harass individuals.
 
 ---
-
-## 👤 Author
-
-**Rachel** — [github.com/rach-db](https://github.com/rach-db)
